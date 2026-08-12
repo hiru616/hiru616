@@ -32,7 +32,7 @@ I'm a Computer Science and Engineering undergraduate at the University of Moratu
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hiru616&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
