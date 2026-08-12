@@ -1,7 +1,7 @@
 # Hi there, I'm Ishakya! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines= Computer+Science+%26+Engineering+Undergrad;Full-Stack+Developer;Always+Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Undergrad;Full-Stack+Developer;Always+Learning+and+Building" alt="Typing SVG" />
 </div>
 
 ---
